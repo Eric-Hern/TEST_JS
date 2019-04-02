@@ -2,7 +2,7 @@ password is 1234567
 
 test@tester.com
 
-API key is AKIAIGFYSHKEHGFYSKYS
+
 
 the IP address is 10.0.0.1
 
